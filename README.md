@@ -1,2 +1,2 @@
 # model_optimaize
-NLP model optimaize 
+NLP model optimize 
